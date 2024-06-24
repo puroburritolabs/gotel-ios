@@ -11,7 +11,7 @@ import SwiftUI
 struct GotelApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            OnBoardingView()
         }
     }
 }
